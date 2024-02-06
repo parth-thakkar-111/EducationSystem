@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "538898187258",
+    "firebase_url": "https://educational-support-440e7-default-rtdb.firebaseio.com",
+    "project_id": "educational-support-440e7",
+    "storage_bucket": "educational-support-440e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538898187258:android:695d2956efbce7205f1a43",
+        "android_client_info": {
+          "package_name": "com.codecx.educationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538898187258-u2cpfsm7khrtrjkk25s8vnd0pppq63bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjyVR5dKJl9mhYhsXOL8cPUj6kMsJkK_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538898187258-u2cpfsm7khrtrjkk25s8vnd0pppq63bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
